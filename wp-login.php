@@ -25,7 +25,7 @@ if ( force_ssl_admin() && ! is_ssl() ) {
 }
 
 /**
- * Output the login page header.
+ * Output the login header.
  *
  * @param string   $title    Optional. WordPress login Page title to display in the `<title>` element.
  *                           Default 'Log In'.
